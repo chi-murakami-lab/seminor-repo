@@ -5,6 +5,7 @@
 ## 各回の課題
 
 - [第4回：GPUの利用](session04/README.md)
+- [第5回：Dockerによる開発環境構築](session05/README.md)
 
 ## 提出先
 
